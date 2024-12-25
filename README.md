@@ -21,6 +21,9 @@ A curated list of open-source projects, libraries, and frameworks built with **G
 ## Barcode go-lib
 - **[Bombuler barcode](https://github.com/boombuler/barcode)**
   This is a package for GO which can be used to create different types of barcodes.
+  
+- **[tutoo barcode](https://github.com/tuotoo/qrcode)**
+  qrcode scanner ( decoder ) by golang 二
 ---
 
 ### Contributing  
