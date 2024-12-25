@@ -1,17 +1,23 @@
-# Awesome Go Cache Projects 🚀  
-A curated list of open-source projects, libraries, and frameworks built with **Go (Golang)** for working with **Cache**. Contributions are welcome!  
+# Awesome Go Database Projects 🚀  
+A curated list of open-source projects, libraries, and frameworks built with **Go (Golang)** for working with **Database**. Contributions are welcome!  
 
 ---
 
 ## Table of Contents  
-1. [Frameworks and Libraries](#frameworks-and-libraries)  
+1. [Frameworks and Libraries Database Relational](#frameworks-and-libraries-database-relational)
+2. [Frameworks and Libraries Database Relational](#frameworks-and-libraries-database-non-relational)  
 
 ---
 
-## Frameworks and Libraries  
-- **[GoBigcache](https://github.com/allegro/bigcache)**
-  Fast, concurrent, evicting in-memory cache written to keep big number of entries without impact on performance. BigCache keeps entries on heap but omits GC for them. To achieve that, operations on byte slices take place, therefore entries (de)serialization in front of the cache will be needed in most use cases.
+## Frameworks and Libraries Database Relational
+- **[GORM](https://gorm.io/)**
+  The fantastic ORM library for Golang, aims to be developer friendly.
 
+- **[Goqu](https://github.com/doug-martin/goqu)**
+  SQL builder and query library for golang
+---
+
+## Frameworks and Libraries Database Non Relational
 - **[Go-redis](https://github.com/redis/go-redis)** 
  This client also works with Kvrocks, a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol.
 
