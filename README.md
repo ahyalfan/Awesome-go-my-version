@@ -15,6 +15,9 @@ A curated list of open-source projects, libraries, and frameworks built with **G
 
 - **[Goqu](https://github.com/doug-martin/goqu)**
   SQL builder and query library for golang
+
+- **[SQLC](https://sqlc.dev)**
+  sqlc generates type-safe code from SQL. Here's how it works
 ---
 
 ## Frameworks and Libraries Database Non Relational
