@@ -5,7 +5,7 @@ A curated list of open-source projects, libraries, and frameworks built with **G
 
 ## Table of Contents  
 1. [Frameworks and Libraries Database Relational](#frameworks-and-libraries-database-relational)
-2. [Frameworks and Libraries Database Relational](#frameworks-and-libraries-database-non-relational)  
+2. [Frameworks and Libraries Database Non Relational](#frameworks-and-libraries-database-non-relational)  
 
 ---
 
